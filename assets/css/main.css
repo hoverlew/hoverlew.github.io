@@ -1198,7 +1198,7 @@ pre code {
   margin-top: -80px;
   margin-bottom: 100px;
   background-color: #fff;
-  padding: 20px;
+  padding: 20px 100px;
   -webkit-border-top-left-radius: 20px;
           border-top-left-radius: 20px;
   -webkit-border-top-right-radius: 20px;
@@ -1318,7 +1318,7 @@ pre code {
 .newsletter .form-container {
   padding: 30px;
   background-color: #efefef;
-  width: 720px;
+  width: auto;
   max-width: 100%;
   margin: 0 auto;
 }

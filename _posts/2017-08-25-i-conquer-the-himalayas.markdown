@@ -1,20 +1,33 @@
 ---
 layout: post
-title:  I conquer the Himalayas
+title:  稳稳的幸福
 date:   2017-08-25 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: post-1.jpg # Add image post (optional)
-tags: [Blog, Mountains]
-author: Adam Neilson # Add name author (optional)
+description: 找到你的 `_posts` 文件. 继续编辑并重新构建站点以查看您的更改 . # 添加文章描述 (可选择的)
+img: post-1.jpg # 添加图片描述 (可选择的)
+tags: [博客, 幸福]
+author: Hove Lau # 添加姓名 (可选择的)
 ---
-Vaporware snackwave stumptown, small batch tattooed try-hard prism fanny pack 3 wolf moon edison bulb tofu hot chicken vice. Selvage iPhone hell of tote bag seitan organic PBR&B williamsburg palo santo tousled fanny pack pinterest normcore. Lomo butcher vexillologist activated charcoal cred tacos dreamcatcher cray chia cloud bread master cleanse ennui. Copper mug hella iceland occupy venmo. Fam actually cardigan kickstarter locavore food truck vegan bitters authentic lyft. Vaporware listicle keffiyeh adaptogen. Cloud bread stumptown swag la croix polaroid pickled. Next level yuccie four dollar toast polaroid. Portland chicharrones craft beer helvetica 3 wolf moon.
+“我不想在云端舞蹈，我只想在地面行走”。哲学家维特根斯坦如是说。在云端舞蹈看似舞步轻盈曼妙，
+却远不如在地面行走稳稳的增补幸福。云端怎样?云端舞蹈，似乎给人一种傲视群雄，“一览众山小”的感觉，
+那是英雄的舞蹈，那是胜利者的舞蹈。但是，却也举步维艰，生怕一个不小心，便会踏空坠下，摔得粉身碎骨。
 
-Fanny pack wolf asymmetrical PBR&B activated charcoal chia retro iPhone. Everyday carry artisan live-edge bespoke ramps. Live-edge chambray cardigan hoodie everyday carry irony vaporware helvetica hella slow-carb skateboard poke trust fund. Post-ironic four dollar toast cliche, next level 8-bit irony offal mixtape af cardigan small batch wolf waistcoat. Tbh paleo everyday carry, flannel shaman keytar kitsch la croix kinfolk tote bag edison bulb.
+东坡先生有词云：“高处不胜寒。起舞弄清影，何似在人间?”地面行走又如何呢?地面行走，再平凡不过了，
+但却是一步一个脚印，倚着大地的支撑，才能使步子迈得坚实起来，厚重起来，走出一条适合自己的道路。生命不能承受之轻。脚踏实地，
+才不会飘得太远。当强秦大兵压境，纸上谈兵时，赵括那“指点江山”，“挥斥方遒”的*澎湃，让赵国人误以为看到了救世主。而到了真正的战场上，
+全变成了一纸空谈，赵军的四十万精兵，就这样被他的“云端舞蹈”一步步推入死亡的深渊。倘若赵王能够认准人选，相信赵母的建议，倘若赵括将纸上谈兵换成脚踏实地的演练，
+定会清楚自己的缺点所在，裨补缺漏，那战场，必将是强秦的坟墓。
 
-> Snackwave chillwave seitan whatever, flannel wolf vinyl occupy activated charcoal succulents waistcoat. Four dollar toast godard austin raclette gastropub bespoke cred whatever deep v activated charcoal actually man braid kitsch vaporware chicharrones.
+我愿意在地面行走。脚踏实地，才能把握时间。“最是人间留不住，朱颜辞镜花辞树。”人生数十年匆匆而过，或许你只是在风中摇曳身姿，跳了一曲探戈，却不知“三十八年看过，
+弹指一挥间”，时间已经一去不返，而在泥土上印上你的足迹，“成因飞鸿踏雪泥”，回首便能看到自己努力的步伐，血与泪开辟的道路，便能在每一个现在经大地印上专属的勋章。
 
-Taxidermy shaman irony williamsburg bespoke. Freegan ugh mumblecore selfies, shabby chic neutra everyday carry. Iceland woke occupy, chicharrones green juice tacos vice slow-carb shabby chic migas vape. Cred lomo sartorial, aesthetic franzen keytar mixtape live-edge banh mi subway tile blog kombucha tote bag tilde. Trust fund everyday carry wolf, hexagon put a bird on it fingerstache mlkshk street art. Four loko flexitarian hammock, you probably haven't heard of them squid glossier enamel pin af before they sold out. Jianbing narwhal chartreuse helvetica 3 wolf moon quinoa. 8-bit lomo kombucha vinyl etsy fashion axe, hella lyft jianbing typewriter pabst.
+脚踏实地才能成功。古希腊神话中，安泰是战无不胜的大力士，因为他的脚从未离地，而他的母亲地神盖娅正给他源源不断的能量，
+而当他被赫拉克勒斯引诱到空中时，失去地支持的安泰只能任人宰割，安泰的失败在于他从未认识到脚踏实地是多么珍贵而有力啊!
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
 
-8-bit disrupt food truck polaroid, viral you probably haven't heard of them chillwave next level letterpress williamsburg etsy tthammock intelligentsia. Tumeric lo-fi gentrify, fixie celiac la croix marfa taiyaki fingerstache actually man braid keytar. Brunch coloring book succulents church-key umami affogato. Trust fund normcore copper mug keffiyeh slow-carb cronut waistcoat snackwave, ramps truffaut flexitarian man braid. Celiac flexitarian authentic hashtag wayfarers. Next level pitchfork scenester godard. Salvia etsy edison bulb knausgaard poke jianbing actually. Mlkshk retro cardigan photo booth swag. Occupy shaman austin, meditation green juice flannel succulents twee. Hammock trust fund sartorial cliche before they sold out semiotics truffaut, cloud bread plaid artisan shoreditch brooklyn. Shoreditch air plant asymmetrical DIY. Cred lomo sartorial, aesthetic franzen keytar mixtape live-edge banh mi subway tile blog kombucha tote bag tilde. Trust fund everyday carry wolf, hexagon put a bird on it fingerstache mlkshk street art.
+文学作品脱离生活就像在云中漫步，华而不实，很难使人产生共鸣;音乐脱离了大众便成为一小部分人的专属，曲高和寡;人脱离了实地，虚伪浮夸，
+便从潘多拉魔盒中蹦出，人便会失去那稳稳的幸福!
+
+演绎人生另种风采。人的一生，可以选择贴在地面步行，踏实地走完每一步。让每一个脚印都留下自己或努力，或喜悦或挣扎或愤怒的情感，那自己的一生也不枉白活一场。
+但也不妨换个方式。野性扬眉剑出鞘，放荡的*恣意挥洒，将人生置于云端，充满力量与技巧地扭动每一步。水火交融的热情，
+亦可呈现出生命的另一种风度，另一种风采。只要能够舞蹈——立于云端又何妨?

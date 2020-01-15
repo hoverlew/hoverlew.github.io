@@ -1,26 +1,24 @@
-title: My personal blog - Adam Neilson
-email: your-email@domain.com
+title: 我的博客 - 刘贺飞
+email: 15626570582@163.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  刘贺飞的博客，一天到晚瞎搞噶，希望熬过孤独的你，能活成你最想要的样子。
 permalink: ':title/'
 baseurl: "/hoverlew.github.iogithub.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://liuhefei.cn" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Adam Neilson # add your name
+author: Hove Lau # add your name
 author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+about-author: 我是刘贺飞，一个全职的Web前端工程师和平面设计师，已经探索世界超过10年了。
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
-website: # Add your website, do not add http://
+email: 15626570852@163.com # Add your Email address
+phone: 13670026292 # Add your Phone number
+website: www.liuhefei.cn # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
-facebook: # Add your Facebook handle
+github: hoverlew # Add your Github handle
+twitter: https://twitter.com/liuhefei # Add your Twitter handle
+facebook: www.facebook.com/hefei.liu.5 # Add your Facebook handle
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
